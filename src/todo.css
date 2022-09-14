@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body {
+  background-color: #333333;
+  overflow-x: hidden;
+  color: white;
+}
+
+.container  {
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  background-color: #0D0D0D;
+}
+form  {
+  display: flex;
+  position: absolute;
+  bottom: 447px;
+}
+ul  {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.done {
+  text-decoration: line-through;
+}
+.item {
+  word-break: break-word;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  padding: 15px;
+  margin-top: 15px; ;
+  font-size: 30px;
+}
+
+.card {
+  box-shadow: 0 2px 7px 1px rgba(0, 0, 0, 0.2);
+}
+
+.a1 {
+width: 25px;
+height: 24px;
+}
+
+.header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  border-radius: 5px;
+  height: 40px;
+  width: 70px;
+  cursor: pointer;
+  border: none;
+  background-color: #333333;
+}
+
+.btn1 {
+  background-color: #1E6F9F;
+  border: none;
+}
+
+.title {
+  margin-bottom: 25px;
+}
+
+.list {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.3;
+  color: white;
+}
+
+.ipt1 {
+  color: white;
+  background-color: #333333;
+  border: none; 
+  box-shadow: 0 0 1em black;
+}
+
+.todo {
+  width: 100%;
+}
+
+li {
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.assignment {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
