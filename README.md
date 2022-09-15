@@ -7,16 +7,12 @@
 <h2> O que foi utilizado 💻 </h2>
 
 - [JAVASCRIPT]()
-- [STYLED-COMPONENTS]()
+- [TAILWHIND]()
 - [TYPESCRIPT]()
-- [CONTEXT API]()
 - [REACT HOOKS]()
-- [ZOD]()
-- [IMMER]()
 - [PHOSPOR ICONS]()
 
-<h1> <a href="https://pomodorotimerp.netlify.app/"> Clique aqui para ver o site em ação </a></h1>
 
 <h1> Descrição </h1>
-<p>  </p>
+<p> Todo list é um projeto feito com o intuito de você poder adicionar listas, excluir e marca como feito os items dessa lista.</p>
  
