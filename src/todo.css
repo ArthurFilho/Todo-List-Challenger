@@ -73,12 +73,19 @@ button {
 }
 
 .btn1 {
-  background-color: #1E6F9F;
+  background-color: #ff4040;
   border: none;
 }
 
 .title {
   margin-bottom: 25px;
+  font-family: 'Nabla', cursive;
+  font-family: 'Odibee Sans', cursive;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Righteous', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  text-shadow: 2px 2px #ff4040;
 }
 
 .list {
@@ -120,4 +127,13 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-around;
+}
+
+.pen {
+  display: flex;    
+}
+
+strong  {
+  background-color: #ff4040;
+  border-radius: 5px;
 }

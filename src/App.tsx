@@ -3,7 +3,6 @@ import { List } from "./components/list";
 import { TodoForm } from "./components/TodoForm"
 import { Item } from "./components/item"
 
-import Logo from "./assets/Logo.svg"
 import "./todo.css"
 import { ClipboardText } from "phosphor-react";
 
@@ -69,7 +68,7 @@ return(
     
     <div className="container">
 
-        <h1 className="title"> <img src={Logo} /> </h1>
+        <h1 className="title"> TODO </h1>
 
         <TodoForm className="todoform" onAddItem={Add} > </TodoForm>
 
@@ -80,8 +79,8 @@ return(
         markItems ?
         <div>
         <div className="assignment">  
-            <p> Tarefas criadas {items.length} </p>
-            <p> Concluidas {updatedItems.length} de {items.length} </p>
+            <p> Tarefas criadas <strong> {items.length}</strong> </p>
+            <p> Concluidas <strong> {updatedItems.length} de {items.length} </strong> </p>
         </div>
       
         <List onDone={onDone} onItemDeleted={onItemDeleted} items={items} />
@@ -89,7 +88,7 @@ return(
          :
         <div className="list">
             <ClipboardText size={50} />
-            <strong> Você ainda não tem tarefas cadastradas </strong>  
+            <p className="font-bold"> Você ainda não tem tarefas cadastradas </p>  
             <p> Criar tarefas e organize seus itens a fazer </p>
         </div>    
         
