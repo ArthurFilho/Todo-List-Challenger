@@ -4,7 +4,7 @@ import { TodoForm } from "./components/TodoForm"
 import { Item } from "./components/item"
 
 import "./todo.css"
-import { ClipboardText } from "phosphor-react";
+import { ClipboardText } from "phosphor-icons";
 
 
 interface ItemType {
