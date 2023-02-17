@@ -7,7 +7,6 @@
 <h2> O que foi utilizado 💻 </h2>
 
 - [JAVASCRIPT]()
-- [TAILWHIND]()
 - [TYPESCRIPT]()
 - [REACT HOOKS]()
 - [PHOSPOR ICONS]()
