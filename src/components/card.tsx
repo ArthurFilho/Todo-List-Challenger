@@ -1,9 +1,9 @@
-export function Card(props:any){
+export function Card( props:any ){
 
-    return <div className={props.className? `${props.className} card`: "card"}>
+  return <div className={props.className? `${props.className} card`: "card"}>
 
-      {props.children}
+    {props.children}
 
-    </div>
+  </div>
 
 }

@@ -29,7 +29,7 @@ return(
 
         <button className="btn1" onClick={add}>
             Criar
-            <PlusCircle  size={24} />
+            <PlusCircle size={24} />
         </button>
     </form>
 )
