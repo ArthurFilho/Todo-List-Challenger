@@ -1,8 +1,9 @@
 <h1> Todo List </h1>
 
-![Screenshot_3](https://user-images.githubusercontent.com/96798145/190483734-d264f17a-25a9-400e-be62-928b16102462.png)
+![image](https://user-images.githubusercontent.com/96798145/219813773-c7de6b6a-85bf-4c43-a23c-cde4eb698b6b.png)
 
-![Screenshot_1](https://user-images.githubusercontent.com/96798145/190483764-71eb2c9d-d458-4624-aa0b-9a050bdb6903.png)
+![image](https://user-images.githubusercontent.com/96798145/219813805-05ef847d-2df1-4f30-bfc6-fc82b34e1055.png)
+
 
 <h2> O que foi utilizado 💻 </h2>
 
